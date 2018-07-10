@@ -1,4 +1,4 @@
-body { padding: 0px 0px 20px; margin: 0px; font: 14px/1.5 OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif; background-color: #252525; color: #f0e7d5; background-attachment: fixed; }
+body { padding: 0px 0px 20px; margin: 0px; font-family: OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px/1.5; background-color: #252525; color: #f0e7d5; background-attachment: fixed; }
 
 header { z-index: 100; left: 0; top: 0px; height: 60px; width: 100%; position: fixed; background-color: #353535; border-bottom: 4px solid #434343; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); }
 
@@ -9,12 +9,12 @@ nav ul li { float: left; list-style-type: none; padding: 10px; }
 .wrapper { max-width: 650px; position: relative; margin: 0px auto; padding: 0px 20px; }
 
 section { max-width: 650px; padding: 30px 0px 50px 0px; margin: 20px 0; margin-top: 70px; }
-section #title h1 { font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 40px; text-align: center; line-height: 36px; }
-section #title p { color: #d7cfbe; font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 18px; text-align: center; }
+section #title h1 { font-family: OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 40px; text-align: center; line-height: 36px; }
+section #title p { color: #d7cfbe; font-family: OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 18px; text-align: center; }
 
 a { color: #ffcc00; font-weight: 400; text-decoration: none; }
 
-h1, h2, h3, h4, h5, h6 { color: #e8e8e8; margin: 0 0 10px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; }
+h1, h2, h3, h4, h5, h6 { color: #e8e8e8; margin: 0 0 10px; font-family: OpenSansRegular, "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; }
 
 #container li { list-style-type: none; background-color: #353535; padding: 10px; margin: 10px; text-align: center; text-transform: uppercase; font-weight: bold; box-shadow: 0px 1px 1px #ffffff6e; border-radius: 5px; }
 
