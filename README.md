@@ -1,2 +1,2 @@
 # checklist
-This is going to be my online roadmap front-end technologies checklist
+This is going to be my online checklist for front-end technologies
